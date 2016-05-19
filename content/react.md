@@ -158,7 +158,7 @@ To use it in Blaze:
 
 <h3 id="blaze-in-react">Blaze Templates in React</h3>
 
-Just like we can use React components in Blaze templates, we can also use Blaze templates in React components.  This is simularly useful for a gradual transition strategy; but more importantly, it allows us to continue to use the multitude of Atmosphere packages built for Blaze in our React projects, as well as core packages like `accounts-ui`.
+Just like we can use React components in Blaze templates, we can also use Blaze templates in React components.  This is similarly useful for a gradual transition strategy; but more importantly, it allows us to continue to use the multitude of Atmosphere packages built for Blaze in our React projects, as well as core packages like `accounts-ui`.
 
 One easy way to do this is with the [`gadicc:blaze-react-component`](https://atmospherejs.com/gadicc/blaze-react-component) package.  First run `meteor add gadicc:blaze-react-component`, then import and use it in your components as follows:
 
